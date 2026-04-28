@@ -42,7 +42,8 @@ The Power BI dashboard includes:
 - Campaign performance  
 - Sales trends  
 
- (You can download it from `/dashboard/dashboard.pdf`)
+##  Dashboard Preview
+![Dashboard](dashboard/dashboard.png)
 
 ---
 
