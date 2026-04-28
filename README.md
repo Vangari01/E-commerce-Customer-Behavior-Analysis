@@ -52,7 +52,7 @@ You can download it from `/dashboard/dashboard.pdf`
 ---
 
 ## Dashboard Preview
-![Dashboard](dashboard/Dashboard.png)
+![Dashboard](dashboard/dashboard.png)
 
 ---
 
