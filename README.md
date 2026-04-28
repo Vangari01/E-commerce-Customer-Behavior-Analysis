@@ -43,7 +43,7 @@ The Power BI dashboard includes:
 - Sales trends  
 
 ##  Dashboard Preview
-![Dashboard](dashboard/dashboard.png)
+![Dashboard](dashboard/Dashboard.png)
 
 ---
 
