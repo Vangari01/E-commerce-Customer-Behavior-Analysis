@@ -15,15 +15,15 @@ Analyzed 1M+ e-commerce transactions using Python, SQL, and Power BI to uncover 
 
 ## Project Structure
 ```notebooks/
-ecommerce_analysis.ipynb```
+ecommerce_analysis.ipynb
 
-```sql/
-analysis_queries.sql```
+sql/
+analysis_queries.sql
 
-```dashboard/
-dashboard.pdf```
+dashboard/
+dashboard.pdf
 
-```README.md```
+README.md```
 
 ---
 
